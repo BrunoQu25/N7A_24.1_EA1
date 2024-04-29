@@ -18,7 +18,7 @@ En la carpeta __templates__ del repositorio encontrará dos subcarpetas, una con
 3. Cree una carpeta __solucion__ en la raíz del repositorio.
 4. Los archivos con los ADRs que cree, agréguelos en una carpeta __./docs/architecture__ bajo **solucion**  
 5. Al terminar el tiempo en clase __haga un commit para marcar lo hecho hasta el momento__. De esta forma si el docente permite que el ejercicio se termine fuera de clase queda registrado lo realizado en clase. 
-6. Cuando termine completamente el ejercicio realice un pull request utilizando el template de revisión de ADRs. Marque los Items que correspondan en el PR y asígnelo a @gamousquesORT.
+6. Cuando termine completamente el ejercicio realice un pull request utilizando el template de revisión de ADRs. Marque los Items que correspondan en el PR y asígnelo a @ivanetchart.
 
 Como parte del ejercicio se espera que el equipo justifique sus decisiones. Recuerde almacenar los ADRs en una carpeta __./docs/architecture__ situada bajo la carpeta solución, y si utiliza diagramas en una carpeta img.
 
